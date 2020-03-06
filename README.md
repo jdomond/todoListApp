@@ -1,7 +1,11 @@
-# Project 1 - *Name of App Here*
+
+===================
+# Project 1 - *To do list app*
+
 
 **To do list App** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
+<img src="https://imgur.com/24GSuqV" width="450" />
 Submitted by: **Richcard**
 
 Time spent: **16 Hours** hours spent in total
